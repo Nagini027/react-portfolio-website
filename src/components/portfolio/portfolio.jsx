@@ -18,11 +18,12 @@ const portfolio = () => {
         <article className='portfolio__item' >
           <div className="portfolio__item-image">
             <img src={IMG1} alt=""/>
+
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
-          <a href="https://dribbble.com" className='btn'>Github</a>
-          <a href="https://dribbble.com"  className = 'btn btn-primary'
+          <a href="https://github.com/Nagini027/Crypto-Exchange-platform" className='btn'>Github</a>
+          <a href="https://cryptoexchangeplatform.netlify.app/"  className = 'btn btn-primary'
            target='_blank'>Live Demo</a>
           </div>
         </article>
